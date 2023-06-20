@@ -149,3 +149,5 @@ print("BERT model training complete.")
 # tokenizer.save_pretrained(output_dir)
 
 # Commit 1 marker: 2023-03-15 10:30:00
+
+# Commit 2 marker: 2023-06-20 14:00:00
